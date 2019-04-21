@@ -1,0 +1,10 @@
+E:\MyWork\vs 2008\nange\nange\nange\obj\Debug\ResolveAssemblyReference.cache
+E:\MyWork\vs 2008\nange\nange\nange\obj\Debug\nange.Form1.resources
+E:\MyWork\vs 2008\nange\nange\nange\obj\Debug\nange.Resources.resources
+E:\MyWork\vs 2008\nange\nange\nange\obj\Debug\nange.vbproj.GenerateResource.Cache
+E:\MyWork\vs 2008\nange\nange\nange\bin\Debug\nange.exe
+E:\MyWork\vs 2008\nange\nange\nange\bin\Debug\nange.pdb
+E:\MyWork\vs 2008\nange\nange\nange\bin\Debug\nange.xml
+E:\MyWork\vs 2008\nange\nange\nange\obj\Debug\nange.exe
+E:\MyWork\vs 2008\nange\nange\nange\obj\Debug\nange.xml
+E:\MyWork\vs 2008\nange\nange\nange\obj\Debug\nange.pdb
